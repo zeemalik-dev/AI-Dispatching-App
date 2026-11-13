@@ -1,0 +1,26 @@
+{
+  "custom_calender.dart": {
+    "old_identifier_name": "CustomCalender",
+    "new_identifier_name": "CustomCalender",
+    "type": "W",
+    "is_deleted": false,
+    "current_checksum": "458e6de1c44ec98e76a1a51a357534a5147d7c6e5f6420293acea9cb289caa87",
+    "original_checksum": "458e6de1c44ec98e76a1a51a357534a5147d7c6e5f6420293acea9cb289caa87"
+  },
+  "custom_functions.dart": {
+    "old_identifier_name": "CustomFunctions",
+    "new_identifier_name": "CustomFunctions",
+    "type": "F",
+    "is_deleted": false,
+    "current_checksum": "3a1d1ee2c074e0d55e4ff5c0f6bb339e364c93873e24c98ccff93971f27dafd9",
+    "original_checksum": "3a1d1ee2c074e0d55e4ff5c0f6bb339e364c93873e24c98ccff93971f27dafd9"
+  },
+  "pubspec.yaml": {
+    "old_identifier_name": "pubspec.yaml",
+    "new_identifier_name": "pubspec.yaml",
+    "type": "D",
+    "is_deleted": false,
+    "current_checksum": "3309202181c30fc14479d92c9d1c3f6953a485d65712fe34360fe4c3c905efc7",
+    "original_checksum": "3309202181c30fc14479d92c9d1c3f6953a485d65712fe34360fe4c3c905efc7"
+  }
+}
